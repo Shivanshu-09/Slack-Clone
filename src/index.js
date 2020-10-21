@@ -1,13 +1,9 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+//  ReactDOM is a package used for rendering
+import ReactDOM from 'react-dom'; 
 import './index.css';
 import { App } from './components';
 
-
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+//  We are rendering main App component inside a div with id "root"
+ReactDOM.render( <App />, document.getElementById('root') );
 
