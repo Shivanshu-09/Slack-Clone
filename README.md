@@ -1,3 +1,6 @@
+#Project Console: https://console.firebase.google.com/project/react-slack-clone-38e3b/overview
+#Hosting URL: https://react-slack-clone-38e3b.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
